@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoahMLoomis
-- 👀 I’m interested in ... React, TS, Python, Django
+- 👀 I’m interested in ... React, Python, Django and React-Native
 - 🌱 I’m currently learning ... Nextjs, Django
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... noah.loomis@me.com
